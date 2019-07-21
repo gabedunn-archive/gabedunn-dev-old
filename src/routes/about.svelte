@@ -2,5 +2,5 @@
 	<title>about</title>
 </svelte:head>
 
-<h1 class="text-4xl">about me</h1>
-<p class="mt-4">This is my 'about' page. There's not much here.</p>
+<h1 class="title-2">about me</h1>
+<h2 class="subtitle-2">This is my 'about' page. There's not much here.</h2>

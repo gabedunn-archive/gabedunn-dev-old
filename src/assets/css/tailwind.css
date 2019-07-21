@@ -5,3 +5,23 @@
 /*noinspection CssInvalidAtRule*/
 @tailwind utilities;
 
+body {
+    font-family: BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    color: rgb(54, 54, 54)
+}
+
+.title {
+    @apply text-5xl font-light;
+}
+
+.title-2 {
+    @apply text-4xl font-light;
+}
+
+.subtitle {
+    @apply text-3xl font-light italic;
+}
+
+.subtitle-2 {
+    @apply text-2xl font-light italic;
+}
