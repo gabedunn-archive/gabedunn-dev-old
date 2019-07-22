@@ -7,10 +7,10 @@
 
 <Nav {segment}/>
 
-<main class="flex flex-col justify-between">
-    <section id="home" class="container mx-auto my-24 flex-1">
+<main class="px-4 md:px-8 flex flex-col justify-between">
+    <div id="home" class="container mx-auto my-24 flex-1">
         <slot/>
-    </section>
+    </div>
     <Foot />
 </main>
 

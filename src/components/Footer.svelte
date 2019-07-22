@@ -2,7 +2,7 @@
     <div class="container mx-auto my-12 flex">
         <ul class="mx-auto font-light">
             {#each contactInfo as contact}
-            <li class="inline px-8">
+            <li class="inline px-2 md:px-8">
                 <a href="{contact.href}" target="{contact.target}">{contact.name}</a>
             </li>
             {/each}

@@ -19,9 +19,39 @@ body {
 }
 
 .subtitle {
-    @apply text-3xl font-light italic;
+    @apply font-light italic;
+}
+
+@media (min-width: 640px) {
+    .subtitle {
+        @apply text-base;
+    }
+}
+
+@media (min-width: 768px) {
+    .subtitle {
+        @apply text-xl;
+    }
+}
+
+@media (min-width: 1024px) {
+    .subtitle {
+        @apply text-2xl;
+    }
 }
 
 .subtitle-2 {
-    @apply text-2xl font-light italic;
+    @apply font-light italic;
+}
+
+@media (min-width: 768px) {
+    .subtitle-2 {
+        @apply text-base;
+    }
+}
+
+@media (min-width: 1024px) {
+    .subtitle-2 {
+        @apply text-xl;
+    }
 }
