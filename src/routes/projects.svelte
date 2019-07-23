@@ -12,7 +12,7 @@
         href: 'https://gabedunn.dev',
         github: 'redxtech/gabedunn.dev',
         image: 'https://i.imgur.com/a3USZLo.png',
-        skills: ['html', 'css', 'js', 'svelte', 'sapper', 'tailwind']
+        skills: ['svelte', 'sapper', 'tailwind', 'rollup']
       },
       {
         name: 'when.',
@@ -20,14 +20,14 @@
         href: 'https://when.redxte.ch',
         github: 'redxtech/when',
         image: 'https://i.imgur.com/CjOQSan.png',
-        skills: ['html', 'css', 'js', 'vue', 'APIs', 'OAuth2', 'fetch']
+        skills: ['vue', 'APIs', 'OAuth2', 'fetch', 'flux']
       },
       {
         name: 'canmore-brewing',
         description: 'A landing page and informative website for a local brewery.',
         href: 'https://canmorebrewing.com',
         image: 'https://i.imgur.com/tlZ4dsK.png',
-        skills: ['html', 'css', 'js', 'vue', 'APIs', 'google maps']
+        skills: ['vue', 'APIs', 'google maps']
       },
       {
         name: 'devmod',
@@ -35,7 +35,7 @@
         href: 'https://devcord.com',
         github: 'redxtech/devmod',
         image: 'https://i.imgur.com/ltBwusB.png',
-        skills: ['js', 'node', 'discord.js', 'async']
+        skills: ['node', 'discord.js', 'async', 'moderation']
       },
       {
         name: 'devcord',
@@ -43,7 +43,7 @@
         href: 'https://devcord.com',
         github: 'devcord',
         image: 'https://i.imgur.com/Ov3QJaB.png',
-        skills: ['discord', 'community']
+        skills: ['discord', 'developer', 'community']
       },
       {
         name: 'vue-plyr',
