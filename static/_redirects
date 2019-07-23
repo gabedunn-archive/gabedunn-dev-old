@@ -1,0 +1,5 @@
+# Optional: Redirect default Netlify subdomain to primary domain
+https://gabedunndev.netlify.com/* https://gabedunn.dev/:splat 301!
+
+# History mode for SPA
+/* /index.html 200
