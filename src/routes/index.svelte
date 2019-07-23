@@ -9,7 +9,7 @@
 
 <div class="mt-24 text-lg font-light text-justify">
     <p class="mt-4">
-        Hello! I am a canadian web developer based in Calgary, Alberta and I've been working with web technologies for
+        Hello! I am a full-stack web developer and software engineer based in Calgary, Alberta and I've been working with web technologies for
         the past 4 years.
     </p>
     <p class="my-4">
