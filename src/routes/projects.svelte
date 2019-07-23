@@ -8,7 +8,7 @@
     const projects = [
       {
         name: 'gabedunn.dev',
-        description: 'This website.',
+        description: 'This website. My personal website and portfolio.',
         href: 'https://gabedunn.dev',
         github: 'redxtech/gabedunn.dev',
         image: 'https://i.imgur.com/a3USZLo.png',
