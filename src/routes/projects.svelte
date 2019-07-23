@@ -44,6 +44,14 @@
         github: 'devcord',
         image: 'https://i.imgur.com/Ov3QJaB.png',
         skills: ['discord', 'community']
+      },
+      {
+        name: 'vue-plyr',
+        description: 'A vue component for the plyr video & audio player.',
+        href: 'https://github.com/redxtech/vue-plyr',
+        github: 'redxtech/vue-plyr',
+        image: 'https://i.imgur.com/6FtNns2.png',
+        skills: ['vue', 'js', 'npm', 'components']
       }
     ]
 </script>
