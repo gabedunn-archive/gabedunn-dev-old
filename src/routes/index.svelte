@@ -1,5 +1,6 @@
 <svelte:head>
 	<title>Gabe Dunn</title>
+	<meta property="og:title" content="Gabe Dunn." />
 </svelte:head>
 
 <div>

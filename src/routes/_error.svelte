@@ -7,6 +7,7 @@
 
 <svelte:head>
 	<title>{status}</title>
+	<meta property="og:title" content="Gabe Dunn - {status}" />
 </svelte:head>
 
 <h1 class="title-2">{status}.</h1>
