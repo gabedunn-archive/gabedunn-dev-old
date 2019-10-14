@@ -1,6 +1,7 @@
 <script>
+    import toWords from 'number-to-words'
     const yearsSince = (from, to) => Math.abs(Math.round((to.getTime() - from.getTime()) / (1000 * 60 * 60 * 24 * 365.25)))
-    const devYears = yearsSince(new Date('2015-10-15'), new Date())
+    const devYears = toWords.toWords(yearsSince(new Date('2015-10-15'), new Date()))
 </script>
 <svelte:head>
 	<title>Gabe Dunn</title>
